@@ -207,9 +207,9 @@
             word-wrap: break-word;
 
         }
-        .descripton>ul>li:nth-child(odd){
-            color: #48f3ff;
-            font-size: 0.9vw;
+       .descripton>ul>li:nth-child(odd){
+            color: #5afe02;
+            font-size: 2vw;
         }
         .descripton>ul>li:last-child{
             color: rgb(39, 241, 241);
